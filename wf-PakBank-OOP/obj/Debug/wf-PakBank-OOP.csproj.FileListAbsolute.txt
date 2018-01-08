@@ -1,0 +1,27 @@
+C:\Users\Section1\Documents\MS-YAZ16\wf-PakBank-OOP\wf-PakBank-OOP\bin\Debug\wf-PakBank-OOP.exe.config
+C:\Users\Section1\Documents\MS-YAZ16\wf-PakBank-OOP\wf-PakBank-OOP\bin\Debug\wf-PakBank-OOP.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-PakBank-OOP\wf-PakBank-OOP\bin\Debug\wf-PakBank-OOP.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-PakBank-OOP\wf-PakBank-OOP\obj\Debug\wf-PakBank-OOP.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-PakBank-OOP\wf-PakBank-OOP\obj\Debug\wf_PakBank_OOP.frmAnaSayfa.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-PakBank-OOP\wf-PakBank-OOP\obj\Debug\wf_PakBank_OOP.frmHesapAcilisi.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-PakBank-OOP\wf-PakBank-OOP\obj\Debug\wf_PakBank_OOP.Properties.Resources.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-PakBank-OOP\wf-PakBank-OOP\obj\Debug\wf-PakBank-OOP.csproj.GenerateResource.Cache
+C:\Users\Section1\Documents\MS-YAZ16\wf-PakBank-OOP\wf-PakBank-OOP\obj\Debug\wf-PakBank-OOP.exe
+C:\Users\Section1\Documents\MS-YAZ16\wf-PakBank-OOP\wf-PakBank-OOP\obj\Debug\wf-PakBank-OOP.pdb
+C:\Users\Section1\Documents\MS-YAZ16\wf-PakBank-OOP\wf-PakBank-OOP\obj\Debug\wf_PakBank_OOP.frmHesapDokumu.resources
+C:\Users\Section1\Documents\MS-YAZ16\wf-PakBank-OOP\wf-PakBank-OOP\obj\Debug\wf_PakBank_OOP.frmParaIslemleri.resources
+C:\Users\Umut Ezgi\Desktop\ERkan Hoca\wf-PakBank-OOP\wf-PakBank-OOP\bin\Debug\wf-PakBank-OOP.exe.config
+C:\Users\Umut Ezgi\Desktop\ERkan Hoca\wf-PakBank-OOP\wf-PakBank-OOP\obj\Debug\wf-PakBank-OOP.exe
+C:\Users\Umut Ezgi\Desktop\ERkan Hoca\wf-PakBank-OOP\wf-PakBank-OOP\obj\Debug\wf-PakBank-OOP.pdb
+C:\Users\Umut Ezgi\Desktop\ERkan Hoca\wf-PakBank-OOP\wf-PakBank-OOP\bin\Debug\wf-PakBank-OOP.exe
+C:\Users\Umut Ezgi\Desktop\ERkan Hoca\wf-PakBank-OOP\wf-PakBank-OOP\bin\Debug\wf-PakBank-OOP.pdb
+C:\Users\Umut Ezgi\Desktop\ERkan Hoca\wf-PakBank-OOP\wf-PakBank-OOP\obj\Debug\wf-PakBank-OOP.csprojResolveAssemblyReference.cache
+C:\Users\Umut Ezgi\Desktop\ERkan Hoca\wf-PakBank-OOP\wf-PakBank-OOP\obj\Debug\wf_PakBank_OOP.frmAnaSayfa.resources
+C:\Users\Umut Ezgi\Desktop\ERkan Hoca\wf-PakBank-OOP\wf-PakBank-OOP\obj\Debug\wf_PakBank_OOP.frmHesapAcilisi.resources
+C:\Users\Umut Ezgi\Desktop\ERkan Hoca\wf-PakBank-OOP\wf-PakBank-OOP\obj\Debug\wf_PakBank_OOP.frmHesapDokumu.resources
+C:\Users\Umut Ezgi\Desktop\ERkan Hoca\wf-PakBank-OOP\wf-PakBank-OOP\obj\Debug\wf_PakBank_OOP.frmParaIslemleri.resources
+C:\Users\Umut Ezgi\Desktop\ERkan Hoca\wf-PakBank-OOP\wf-PakBank-OOP\obj\Debug\wf_PakBank_OOP.Properties.Resources.resources
+C:\Users\Umut Ezgi\Desktop\ERkan Hoca\wf-PakBank-OOP\wf-PakBank-OOP\obj\Debug\wf-PakBank-OOP.csproj.GenerateResource.Cache
+C:\Users\Umut Ezgi\Desktop\Github için Projeler\wf-PakBank-OOP\wf-PakBank-OOP\bin\Debug\wf-PakBank-OOP.exe.config
+C:\Users\Umut Ezgi\Desktop\Github için Projeler\wf-PakBank-OOP\wf-PakBank-OOP\obj\Debug\wf-PakBank-OOP.exe
+C:\Users\Umut Ezgi\Desktop\Github için Projeler\wf-PakBank-OOP\wf-PakBank-OOP\obj\Debug\wf-PakBank-OOP.pdb
